@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun 20 13:13:14 2023
 
-@author: X470118
+@author: Louw Redelinghuys
 """
 
 # GOAL :    Get title of every book with a 2 star rating
